@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>langzaam.be/about/</loc>
+  </url>
+  
+  <url>
+    <loc>langzaam.be/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>langzaam.be/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>langzaam.be/</loc>
+  </url>
+  
+  <url>
+    <loc>langzaam.be/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>langzaam.be/shop/</loc>
+  </url>
+  
+  <url>
+    <loc>langzaam.be/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>langzaam.be/posts/hello/</loc>
+  </url>
+  
+</urlset>
