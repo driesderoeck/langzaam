@@ -14,4 +14,7 @@ Behold a nice stock photo rendering of what it could look like ...
 Price TBD, I don't want to make any profit on this ... so it'll be sold at production cost + shipping. I estimate this to be €50, but it could be more.
 
 ### Sign up to express your interest
-I have a form up [over here](https://tally.so/r/w4QRbn). If I get 50 people registered by the end of August 2021 I'll start production.
+If I get 50 people registered by the end of August 2021 using the form form below I'll start production!
+
+
+{{< tally "https://tally.so/embed/w4QRbn?hideTitle=1&alignLeft=1" >}}
